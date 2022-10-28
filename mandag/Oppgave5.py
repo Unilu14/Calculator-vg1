@@ -14,3 +14,4 @@ def splitevenodd (A):
 
 A = prime_tall
 splitevenodd(A)
+#######lkd####################
